@@ -148,3 +148,45 @@ header {
 .event_left {
     margin-right: 10px;
 }
+
+
+/*category food*/
+
+.food_wrap {
+    display: flex;
+    flex-direction: column;
+    padding-top: 150px;
+}
+
+.category_food {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.category_title {
+    font-size: 28px;
+    font-weight: 600;
+    margin-left: 40px;
+    margin-bottom: 30px;
+}
+
+.category_item {
+    text-decoration: none;
+    display: flex;
+    width: 370px;
+    position: relative;
+}
+
+.category_item img {
+    width: 100%;
+}
+
+.category_food_title {
+    font-size: 16px;
+    font-weight: 600;
+    color: #313131;
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
