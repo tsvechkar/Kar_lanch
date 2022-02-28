@@ -108,6 +108,7 @@ header {
 .event_title {
     font-size: 36px;
     font-weight: 600;
+    margin-left: 84px;
 }
 
 .event_text {
@@ -115,6 +116,7 @@ header {
     font-weight: 400;
     width: 356px;
     height: 116px;
+    margin-left: 87px;
 }
 
 .event_button {
@@ -127,4 +129,7 @@ header {
     background: linear-gradient(93.11deg, #C84735 3.29%, #EB5D49 50.3%, #C84735 98.31%);
     border-radius: 0 20px 0 20px;
     text-align: center;
+    display: block;
+    padding-top: 27px;
+    margin-left: 87px;
 }
