@@ -133,3 +133,18 @@ header {
     padding-top: 27px;
     margin-left: 87px;
 }
+
+.event_future {
+    display: flex;
+    align-items: center;
+    padding-top: 42px;
+    justify-content: space-around;
+}
+
+.event_img {
+    margin-right: 10px;
+}
+
+.event_left {
+    margin-right: 10px;
+}
